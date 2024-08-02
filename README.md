@@ -18,4 +18,12 @@ https://cdn-api.co-vin.in/api/v2/admin/location/states
 ### Deployment
 https://my-app-test11.azurewebsites.net/swagger/index.html
 
+```bash
+<dependency>
+			<groupId>org.springdoc</groupId>
+			<artifactId>springdoc-openapi-starter-webmvc-ui</artifactId>
+			<version>2.1.0</version>
+		</dependency>
+```
+
 
