@@ -26,4 +26,16 @@ https://my-app-test11.azurewebsites.net/swagger/index.html
 		</dependency>
 ```
 
+### DB properites
+```bash
+spring.datasource.url=jdbc:mysql://localhost:3306/springsecurity?createDatabaseIfNotExist=true&useSSL=false&allowPublicKeyRetrieval=true
+#spring.datasource.url=jdbc:mysql://database-1.cnfjksdjkfu.ap-south-3.rds.amazonaws.com:3306/meetyourdoctor?createDatabaseIfNotExist=true&useSSL=false&allowPublicKeyRetrieval=true
+spring.datasource.username=root
+spring.datasource.password=root
+
+# JPA properties
+spring.jpa.show-sql = true
+spring.jpa.hibernate.ddl-auto = update
+```
+
 
