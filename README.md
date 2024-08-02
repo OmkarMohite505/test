@@ -18,9 +18,8 @@ https://cdn-api.co-vin.in/api/v2/admin/location/states
 ### Deployment
 	AWS or Azure
 
-```bash
-
 #### Swagger Dep
+```bash
 <dependency>
 	<groupId>org.springdoc</groupId>
 	<artifactId>springdoc-openapi-starter-webmvc-ui</artifactId>
