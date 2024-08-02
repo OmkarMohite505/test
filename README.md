@@ -41,11 +41,11 @@ spring.jpa.hibernate.ddl-auto = update
 ## JWT Depen
 ```bash
 <!-- JWT helper dependency -->
-		<dependency>
-			<groupId>io.jsonwebtoken</groupId>
-			<artifactId>jjwt</artifactId>
-			<version>0.9.1</version>
-		</dependency>
+<dependency>
+	<groupId>io.jsonwebtoken</groupId>
+	<artifactId>jjwt</artifactId>
+	<version>0.9.1</version>
+</dependency>
 ```
 
 # pom.xml
