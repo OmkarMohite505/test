@@ -19,11 +19,13 @@ https://cdn-api.co-vin.in/api/v2/admin/location/states
 	AWS or Azure
 
 ```bash
+
+#### Swagger Dep
 <dependency>
-			<groupId>org.springdoc</groupId>
-			<artifactId>springdoc-openapi-starter-webmvc-ui</artifactId>
-			<version>2.1.0</version>
-		</dependency>
+	<groupId>org.springdoc</groupId>
+	<artifactId>springdoc-openapi-starter-webmvc-ui</artifactId>
+	<version>2.1.0</version>
+</dependency>
 ```
 
 ### DB properites
